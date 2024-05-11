@@ -1,5 +1,7 @@
 # YTD
 
+Download mp3 or mp4 on youtube.
+
 ## Package
   * tkinter
   * tkkbootstrap
