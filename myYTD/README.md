@@ -33,7 +33,7 @@
 * Success
  >![success](videodownload.png)
 
-## If U want a exe file to easily use the tool...
+## If you want a exe file to easily use the tool...
 * To the path
   ```
   cd "the code [hide_console.py]'s path"
@@ -42,7 +42,7 @@
   ```
   pyinstaller hide_console.py --icon=a9mz0-dsomv-001.ico --name=YTD --onefile --paths="C:.......\Python\Python39\site-packages" 
   ```
-* And after you will see:
+* And after you will see the exe in dist file:
   >You can click to do everything above!!!
   >
   >![exe file](image.png)
