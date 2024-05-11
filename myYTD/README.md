@@ -28,7 +28,7 @@
 
 ## Demo:
 * Running
- >![result](https://github.com/simoneyc/YT_tool/assets/90315277/d555a315-47d1-47cd-83e5-8d5715c5b098)
+ >![result](running.png)
 
 * Success
- >![success](https://github.com/simoneyc/YT_tool/assets/90315277/489c08ef-2c53-407b-a3ef-f317aceeaff3)
+ >![success](videodownload.png)
